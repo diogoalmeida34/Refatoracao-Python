@@ -1,4 +1,4 @@
-# Orientações sobre a tarefa da matéria de Engenharia de Software sobre Refatoração de código fonte para Gilded Rose
+# Orientações sobre a Refatoração de código fonte para Gilded Rose
 
 ![image](https://github.com/diogoalmeida34/Refatoracao-Python/assets/90733669/c879cefd-84a8-4388-a335-55400688d8f6)
 
